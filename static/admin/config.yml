@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
+logo_url: https://cdn.shopify.com/s/files/1/0680/2935/t/13/assets/shtapel_logo_large_transparent_512x.png?73370
 media_folder: static/img
 public_folder: /img
 
